@@ -1,0 +1,2 @@
+rootProject.name='loginMedisis V3'
+include ':app'
